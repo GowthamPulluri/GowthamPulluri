@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gowtham Pulluri
 - 👀 I’m interested in Innovative things
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me ... pullurigowtam@gmail.com
 
 <!---
